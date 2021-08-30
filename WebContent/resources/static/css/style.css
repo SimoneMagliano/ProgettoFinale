@@ -1,0 +1,52 @@
+.benvenuto, h1 {
+
+	text-align: center;
+	margin: auto;
+	font-size: 30px;
+	font-weight: bold;
+	color: #b8731f;
+	margin-top: 50px;
+	padding: 25px;
+	text-shadow: 2px 2px 8px #ee3e11;
+}
+#header .navbar.navbar-expand-lg  {
+	color: #0e298c; 
+	background-color: rgb(255, 255, 255, 0.5); 
+	height: 100px; text-align: center;
+ 	border: 1px solid blue; 
+ 	padding: 10px; 
+ 	border-radius: 20px;
+ 	font-size: 40px;
+ 	font-weight: bolder;
+ 	text-shadow: 2px 2px 8px #1c8ee3;
+}
+
+.btn-success {
+	padding: 6px;
+	border-radius: 15px;
+	background-color: #3291a8;
+	font-size: 24px;
+}
+
+.logout {
+	position: fixed;
+	bottom: 30px;
+	right: 50px;
+	padding: 20px;
+	border-radius: 15px;
+  border: 3px solid #73AD21;
+  margin: auto;
+  background-color: #b54819;
+  font-size: 30px;
+  font-weight: bold;
+  box-shadow: 2px 2px 8px #FF0000;
+  color: #333 !important;
+}
+
+.table {
+	width: 90%;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #b54819;
+	color: #333 !important;
+}
